@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @IfeOlaitan
 - 👀 I’m interested in Design in Frontend Web Development
-- 🌱 I’m currently learning Vue and Typescript
+- 👨🏽‍💻 I work with Tailwind, Vue and React
+- 🌱 I’m currently learning Typescript
 - 📫 How to reach me - olaiyaifeoluwa.o@gmail.com
 
 <!---
